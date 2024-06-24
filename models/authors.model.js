@@ -104,3 +104,10 @@ module.exports = authors;
 // updateAuthor(autorcito).then(data => console.log(data))
 
 //deleteAuthor('diego4@thebridgeschool.es').then(data =>console.log(data))
+
+// {
+//     "name": "KJ ROWL",
+//     "surname": "KJ",
+//     "email": "kr@gmil.com",
+//     "image": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+// }
